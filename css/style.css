@@ -1,0 +1,10 @@
+body{
+    background-image: url(../img/firewatch-dark-version-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+}
+h1{
+    border-top: 50%;
+}
